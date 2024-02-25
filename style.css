@@ -53,7 +53,7 @@ header a:hover{
     background-repeat: no-repeat;
     box-shadow: inset 6px 6px 13px 0px black;
     padding: 20px;
-    height: 40vw;
+    height: 55vw;
 }
 
 #primeiro article{
@@ -79,7 +79,7 @@ header a:hover{
     background-repeat: no-repeat;
     box-shadow: inset 6px 6px 13px 0px black;
     padding: 30px;
-    height: 45vw;
+    height: 60vw;
 }
 #segundo article{
     background-color: rgba(0, 0, 0, 0.315);
@@ -115,7 +115,7 @@ footer a:hover{
     text-decoration: underline;
 }
 .texto{
-    padding-bottom: 25vh;
+    padding-bottom: 20vh;
     padding-top: 10vh;
     padding-left: 30px;
     text-align: justify;
@@ -131,7 +131,7 @@ footer a:hover{
 
 }
 .texto1{
-    padding-bottom: 25vh;
+    padding-bottom: 15vh;
     padding-top: 8vh;
     padding-left: 30px;
     text-align: justify;
